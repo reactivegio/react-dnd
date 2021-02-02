@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Drag and drop
+An experimet to drag and drop the element's list 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
